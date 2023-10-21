@@ -1,7 +1,7 @@
-## Grafos Conexos ou desconexos
+# Grafos Conexos e Desconexos
 Implementar um algoritmo para descobrir se um grafo é ou não conexo.
 
-# Exemplo Grafo conexo utilizado no código:
+## Exemplo Grafo conexo utilizado no código:
 
 ```
 addEdge(graph, 0, 1);
@@ -18,7 +18,7 @@ graph LR;
     D-->E;
 ```
 
-# Exemplo Grafo desconexo utilizado no código:
+## Exemplo Grafo desconexo utilizado no código:
 
 ```
 addEdge(graph, 0, 1);
